@@ -21,20 +21,20 @@ The Student Grade Tracker is a web-based application designed to help students, 
 
 ## key activities
 - **User Authentication**: Implement secure login and registration for students and teachers.
--**Grade Entry**: Allow teachers to input grades for assignments, tests, and overall performance.
--**Grade Viewing**: Enable students to view their grades and progress in real-time.
--**Reporting**: Generate reports and visualizations of student performance, including trends and averages.
--**Notifications**: Send alerts to students and teachers for important updates, such as grade submissions and deadlines.
--**Data Management**: Store and manage student data securely, ensuring privacy and compliance with educational standards.
+- **Grade Entry**: Allow teachers to input grades for assignments, tests, and overall performance.
+- **Grade Viewing**: Enable students to view their grades and progress in real-time.
+- **Reporting**: Generate reports and visualizations of student performance, including trends and averages.
+- **Notifications**: Send alerts to students and teachers for important updates, such as grade submissions and deadlines.
+- **Data Management**: Store and manage student data securely, ensuring privacy and compliance with educational standards.
 
 ## Features
--**User Roles**: Different access levels for students and teachers.
--**Dashboard**: A comprehensive dashboard displaying grades, attendance, and performance metrics.
--**Grade Calculation**: Automatic calculation of overall grades based on weighted assignments and tests.
--**Export Options**: Ability to export grades and reports in various formats (CSV, PDF).
--**Responsive Design**: Mobile-friendly interface for access on various devices.
--**Search and Filter**: Easily search and filter grades by subject, date, or student.
--**Data Visualization**: Graphs and charts to visualize student performance over time.
+- **User Roles**: Different access levels for students and teachers.
+- **Dashboard**: A comprehensive dashboard displaying grades, attendance, and performance metrics.
+- **Grade Calculation**: Automatic calculation of overall grades based on weighted assignments and tests.
+- **Export Options**: Ability to export grades and reports in various formats (CSV, PDF).
+- **Responsive Design**: Mobile-friendly interface for access on various devices.
+- **Search and Filter**: Easily search and filter grades by subject, date, or student.
+- **Data Visualization**: Graphs and charts to visualize student performance over time.
 
 ## Technologies Used
 - **Frontend**:
